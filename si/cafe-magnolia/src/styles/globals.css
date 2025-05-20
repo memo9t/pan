@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-serif pt-[6.25rem];
+  }
+}
+
+@layer components {
+  /* Puedes agregar componentes personalizados aquí si es necesario */
+}
